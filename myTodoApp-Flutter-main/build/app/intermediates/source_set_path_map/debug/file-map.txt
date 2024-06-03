@@ -1,0 +1,13 @@
+com.example.mytodoapp-jetified-annotation-experimental-1.1.0-0 C:\Users\Administrator\.gradle\caches\transforms-3\0ee9e38e81120acb405b16317f88005e\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.mytodoapp-jetified-window-java-1.0.0-beta04-1 C:\Users\Administrator\.gradle\caches\transforms-3\52327bdbb6080289c26b0e652865ef2f\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.mytodoapp-jetified-window-1.0.0-beta04-2 C:\Users\Administrator\.gradle\caches\transforms-3\78fbd64af62dbdf102ba7c817970421b\transformed\jetified-window-1.0.0-beta04\res
+com.example.mytodoapp-core-1.6.0-3 C:\Users\Administrator\.gradle\caches\transforms-3\7c1d12144b2ebda7a6da3814a09658ad\transformed\core-1.6.0\res
+com.example.mytodoapp-debug-4 C:\Users\Administrator\Desktop\myTodoApp-Flutter-main\myTodoApp-Flutter-main\android\app\src\debug\res
+com.example.mytodoapp-main-5 C:\Users\Administrator\Desktop\myTodoApp-Flutter-main\myTodoApp-Flutter-main\android\app\src\main\res
+com.example.mytodoapp-pngs-6 C:\Users\Administrator\Desktop\myTodoApp-Flutter-main\myTodoApp-Flutter-main\build\app\generated\res\pngs\debug
+com.example.mytodoapp-resValues-7 C:\Users\Administrator\Desktop\myTodoApp-Flutter-main\myTodoApp-Flutter-main\build\app\generated\res\resValues\debug
+com.example.mytodoapp-rs-8 C:\Users\Administrator\Desktop\myTodoApp-Flutter-main\myTodoApp-Flutter-main\build\app\generated\res\rs\debug
+com.example.mytodoapp-mergeDebugResources-9 C:\Users\Administrator\Desktop\myTodoApp-Flutter-main\myTodoApp-Flutter-main\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.mytodoapp-mergeDebugResources-10 C:\Users\Administrator\Desktop\myTodoApp-Flutter-main\myTodoApp-Flutter-main\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.mytodoapp-merged_res-11 C:\Users\Administrator\Desktop\myTodoApp-Flutter-main\myTodoApp-Flutter-main\build\app\intermediates\merged_res\debug
+com.example.mytodoapp-packaged_res-12 C:\Users\Administrator\Desktop\myTodoApp-Flutter-main\myTodoApp-Flutter-main\build\path_provider_android\intermediates\packaged_res\debug
