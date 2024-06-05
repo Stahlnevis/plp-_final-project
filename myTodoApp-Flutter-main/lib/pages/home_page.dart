@@ -155,7 +155,16 @@ class _HomePageState extends State<HomePage> {
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      Flexible(child: Image.asset('images/3369471-ai.png')),
+                      Flexible(
+                        child: SizedBox(
+                          width: 200, // Adjust the width as needed
+                          height: 200, // Adjust the height as needed
+                          child: Image.asset('assets/images/image.jpg'),
+                        ),
+                      ),
+                      const SizedBox(
+                          height:
+                              20), // Add some space between the image and text
                       Text(
                         'Nothing to do...',
                         style: textTheme.titleMedium,
@@ -258,7 +267,7 @@ class _HomePageState extends State<HomePage> {
                                       const Duration(milliseconds: 2300),
                                   key: UniqueKey(),
                                   onDismissed: (direction) {
-                                    task!.delete();
+                                    task.delete();
                                   },
                                   child: Padding(
                                     padding: const EdgeInsets.only(bottom: 8),
